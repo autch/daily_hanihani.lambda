@@ -20,7 +20,7 @@ GEM
       json
       mime-types
       oauth
-    jmespath (1.4.0)
+    jmespath (1.6.2)
     json (2.3.1)
     mime-types (3.3.1)
       mime-types-data (~> 3.2015)
